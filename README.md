@@ -3,3 +3,4 @@
 #  1.1 singlechat
 #  1.2 Multichat
 # 2.CRC
+# 3.LZW
