@@ -7,7 +7,7 @@ alias = input("enter a username:")
 client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 client.connect((host,port))
 
-
+51282
 def client_recieve():
     while True:
         try:
